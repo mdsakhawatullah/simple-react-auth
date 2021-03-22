@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "name": "Bike",
+    "image": "https://th.bing.com/th/id/R0c5d327822514af3774c4c50bbdbc33f?rik=6%2bwKjyLmT6Jkqw&riu=http%3a%2f%2fwww.hdwallpapers.in%2fdownload%2fmotoczysz_racing_bike-1280x1024.jpg&ehk=z9Y0FWQKr%2bLmOBGN3r6IVXh3qOkpXmv6hEYH3mIAKfs%3d&risl=&pid=ImgRaw"
+    
+  }, {
+    "id": 2,
+    "name": "CAR",
+    "image": "https://th.bing.com/th/id/R3e2e794045b00c6f220b749a9eb87aa6?rik=htLaWgZI21pufw&riu=http%3a%2f%2fmultifiles.pressherald.com%2fuploads%2fsites%2f4%2f2016%2f09%2f1059502_859082-Uber-Autonomus-Cars_.jpg&ehk=A0n8eIkOaYpChJyy06%2f1dI3sECZIhCIK5EuoPOFplf4%3d&risl=&pid=ImgRaw"
+    
+  }, {
+    "id": 3,
+    "name": "BUS",
+    "image": "https://th.bing.com/th/id/OIP.9h5-4tLFVreYyUEA1jPCsQHaE7?pid=ImgDet&rs=1"
+    
+  }, {
+    "id": 4,
+    "name": "TRAIN",
+    "image": "https://th.bing.com/th/id/OIP.M_6wUulf9CC7pl651DQ_6AHaE7?pid=ImgDet&rs=1"
+    
+  }]
